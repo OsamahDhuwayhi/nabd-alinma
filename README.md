@@ -1,3 +1,13 @@
+---
+title: نبض الإنماء
+emoji: 🩺
+colorFrom: blue
+colorTo: purple
+sdk: docker
+app_port: 8501
+pinned: false
+---
+
 # 🩺 نبض الإنماء — رادار صوت العميل (Nabd Alinma)
 
 أداة GenAI لخدمة العملاء تسحب تقييمات تطبيقات **مصرف الإنماء** العامة من Google Play،
