@@ -1,0 +1,9 @@
+# متطلبات النشر فقط (للوحة app.py) — نسخة خفيفة ومتعمّدة
+# لا تحتوي على sentence-transformers/torch/scikit-learn/google-play-scraper
+# لأن app.py لا يستدعيها مطلقًا وقت التشغيل (فقط يقرأ ملف CSV جاهزًا) —
+# هذا يجعل بناء صورة Docker أسرع بكثير على استضافة Hugging Face المجانية.
+streamlit
+pandas
+plotly
+groq
+python-dotenv
