@@ -1,4 +1,4 @@
----
+﻿---
 title: نبض الإنماء
 emoji: 🩺
 colorFrom: blue
@@ -9,6 +9,9 @@ pinned: false
 ---
 
 # 🩺 نبض الإنماء — رادار صوت العميل (Nabd Alinma)
+
+## 🔴 التجربة الحية (Live Demo)
+**[👉 جرّب اللوحة الآن هنا](https://osamahh-nabd-alinma.hf.space/)**
 
 أداة GenAI لخدمة العملاء تسحب تقييمات تطبيقات **مصرف الإنماء** العامة من Google Play،
 تصنّفها إلى **مواضيع ألم**، ترتّبها حسب **الأولوية**، وتقترح **ردودًا متوافقة مع الشريعة**
@@ -124,6 +127,8 @@ streamlit run app.py
 
 ---
 
-## ☁️ النشر المجاني (اختياري)
-ارفع المجلد إلى GitHub ثم انشره مجانًا على
-**Streamlit Community Cloud** أو **Hugging Face Spaces** (كلاهما مجاني).
+## ☁️ النشر (Live)
+المشروع **منشور ومباشر الآن** على Hugging Face Spaces:
+**[https://osamahh-nabd-alinma.hf.space/](https://osamahh-nabd-alinma.hf.space/)**
+
+يمكن أيضًا نشره مجانًا بنفس الطريقة على **Streamlit Community Cloud**.
